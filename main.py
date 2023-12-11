@@ -20,7 +20,7 @@ def reconstruct_image(U, S, Vt, k):
     return reconstructed_matrix
 
 # Список значений k
-k_values = [1, 20, 75, 100, 150, 200, 250, 300, 592]
+k_values = [1, 20, 75, 100, 150, 200, 250, 300, 450]
 
 # Изображения для различных значений k
 plt.figure(figsize=(12, 8))
