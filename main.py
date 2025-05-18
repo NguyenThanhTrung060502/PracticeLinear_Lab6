@@ -31,5 +31,9 @@ for i, k in enumerate(k_values, 1):
     plt.title(f'k = {k}')
     plt.axis('off')
 
+# Add comment 
+
 plt.tight_layout()
 plt.show()
+
+
